@@ -19,7 +19,7 @@ To remove the custom key bindings:
 
 or
 
-1. Open **Xcode** and go to **Preferences...** (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>,</kbd>)
+1. Open **Xcode** and go to **Preferences...** (<kbd>⌘</kbd><kbd>,</kbd>)
 2. Click at the **Key Bindings** tab
 3. Select the **Customized** filter
 4. Click at the key binding and hit delete
