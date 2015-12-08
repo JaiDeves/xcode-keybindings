@@ -1,5 +1,5 @@
 # Xcode Key Bindings
-Just a bunch of tweaked key bindings for Xcode.
+Remarkably uncharming key bindings for Xcode.
 
 Key bindings tested in `Xcode 7.1.1`.
 
@@ -22,7 +22,7 @@ or
 1. Open **Xcode** and go to **Preferences...** (`Cmd + ,`)
 2. Click at the **Key Bindings** tab
 3. Select the **Customized** filter
-4. Click at each key binding and hit delete
+4. Click at the key binding and hit delete
 
 --
 Hey, looking for themes? Check [xcode-themes](https://github.com/adrfer/xcode-themes).
