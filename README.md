@@ -3,16 +3,18 @@ Remarkably uncharming key bindings for Xcode.
 
 Key bindings tested in `Xcode 7.1.1`.
 
-## Install
+## Usage
 
-To install, download the key binding file and then:
+### Add
 
-1. Copy it to **~/Library/Developer/Xcode/UserData/KeyBindings**
+To add custom key bindings:
+
+1. Copy the file from this repo to **~/Library/Developer/Xcode/UserData/KeyBindings**
 2. Open/restart **Xcode**
 
-## Uninstall
+### Remove
 
-To remove the custom key bindings:
+To remove custom key bindings:
 
 1. Delete the contents of **~/Library/Developer/Xcode/UserData/KeyBindings**
 2. Open/restart **Xcode**
