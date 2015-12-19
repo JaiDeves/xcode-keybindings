@@ -43,6 +43,15 @@
 				<string>paste:</string>
 				<string>deleteBackward:</string>
 			</array>
+			<key>^@k</key>
+			<array>
+				<string>deleteToBeginningOfLine:</string>
+				<string>moveToEndOfLine:</string>
+				<string>deleteToBeginningOfLine:</string>
+				<string>deleteBackward:</string>
+				<string>moveDown:</string>
+				<string>moveToBeginningOfLine:</string>
+			</array>
 		</dict>
 		<key>Version</key>
 		<integer>3</integer>
