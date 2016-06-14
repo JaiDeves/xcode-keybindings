@@ -27,6 +27,6 @@ or
 4. Click at the key binding and hit delete
 
 --
-Hey, looking for themes? Check [xcode-themes](https://github.com/adrfer/xcode-themes).
+Hey, looking for themes? Check out [xcode-themes](https://github.com/adrfer/xcode-themes).
 
 Interested in Swift snippets? Take a look at [xcode-snippets](https://github.com/adrfer/xcode-snippets).
