@@ -1,7 +1,7 @@
 # Xcode Key Bindings
 Remarkably uncharming key bindings for Xcode.
 
-Key bindings tested in `Xcode 7.1.1`.
+Tested on `Xcode 7.1.1`.
 
 ## Usage
 
